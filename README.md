@@ -6,7 +6,7 @@ const aboutMe = {
    "country":"Paraguay",
    "knowledge":{
     "language": ["PHP","Javascript"],
-    "libraries": ["react.js","laravel","react native"],
+    "libraries": ["react.js","laravel"],
     "databases": ["mysql"]
    },
    "skills":{
