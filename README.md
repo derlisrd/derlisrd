@@ -11,7 +11,8 @@ const aboutMe = {
    },
    "skills":{
        "hobbies":["ukulele","guitar"] 
-   }
+   },
+   "jobs:[]
 }
 ```
 
