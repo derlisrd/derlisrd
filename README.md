@@ -12,7 +12,23 @@ const aboutMe = {
    "skills":{
        "hobbies":["ukulele","guitar"] 
    },
-   "jobs:[]
+   "companies":[
+     {
+      "name":"milano perfumes",
+      "position":"web site developer",
+      "actually":false
+     },
+     {
+      "name":"Derlis Ruiz Diaz Fotógrafo",
+      "position": "Photographer and designer web",
+      "actually":false
+     },
+     {
+      "name":"Renova Ads",
+      "position": "Developer",
+      "actually":true
+     }
+   ]
 }
 ```
 
