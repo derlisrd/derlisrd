@@ -16,17 +16,17 @@ const aboutMe = {
      {
       "name":"milano perfumes",
       "position":"web site developer",
-      "actually":false
+      "currently":false
      },
      {
       "name":"Derlis Ruiz Diaz Fotógrafo",
       "position": "Photographer and designer web",
-      "actually":false
+      "currently":false
      },
      {
       "name":"Renova Ads",
       "position": "Developer",
-      "actually":true
+      "currently":true
      }
    ]
 }
