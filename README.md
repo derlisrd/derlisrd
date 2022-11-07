@@ -26,7 +26,7 @@ const aboutMe = {
      {
       "name":"Renova Ads",
       "position": "Developer",
-      "currently":true
+      "currently":false
      }
    ]
 }
