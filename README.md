@@ -27,6 +27,11 @@ const aboutMe = {
       "name":"Renova Ads",
       "position": "Developer",
       "currently":false
+     },
+     {
+      "name":"Saeta sistemas",
+      "position": "UI/Designer",
+      "currently":false
      }
    ]
 }
