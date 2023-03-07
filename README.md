@@ -5,9 +5,9 @@ const aboutMe = {
    "lastname":"Ruiz Diaz",
    "country":"Paraguay",
    "knowledge":{
-    "language": ["PHP","Javascript"],
-    "libraries": ["react.js","laravel"],
-    "databases": ["mysql"]
+    "languages": ["PHP","Javascript","dart"],
+    "libraries_frameworks": ["react.js","laravel","react native","flutter"],
+    "databases": ["mysql","mongoDB"]
    },
    "skills":{
        "hobbies":["ukulele","guitar"] 
@@ -31,7 +31,7 @@ const aboutMe = {
      {
       "name":"Saeta sistemas",
       "position": "UI/Designer",
-      "currently":false
+      "currently":true
      }
    ]
 }
