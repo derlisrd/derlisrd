@@ -32,6 +32,12 @@
      {
       "name":"Saeta sistemas",
       "position": "UI/Designer",
+      "currently":false
+     },
+
+     {
+      "name":"Mi credito SA",
+      "position": "Senior Full Stack",
       "currently":true
      }
    ]
