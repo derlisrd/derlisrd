@@ -1,7 +1,7 @@
 
 # ABOUT ME
 ```diff
-!const aboutMe = {
+const aboutMe = <string, dynamic> {
    "name":"Derlis",
    "lastname":"Ruiz Diaz",
    "country":"Paraguay",
